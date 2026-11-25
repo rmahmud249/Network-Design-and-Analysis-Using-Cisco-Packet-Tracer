@@ -49,7 +49,8 @@ illustration.
 
 ## Network Topology
 
-<img width="769" height="457" alt="Network Design" src="https://github.com/user-attachments/assets/6a2e59f3-0aaa-49b8-bc30-52bdaa3539e4" />
+<img width="767" height="374" alt="Network Design" src="https://github.com/user-attachments/assets/bc2efc1c-594c-4743-91da-cdd819557d4e" />
+
 The supplied topology illustration shows a network with multiple routers
 and switches, department-based end devices (including Sales, Engineers,
 and HR), remote-office segments, and dedicated HTTPS and DNS servers.

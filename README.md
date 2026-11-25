@@ -1,4 +1,3 @@
-<img width="769" height="457" alt="Network Design" src="https://github.com/user-attachments/assets/6a2e59f3-0aaa-49b8-bc30-52bdaa3539e4" />
 # Network Design and Analysis
 
 A multi-router enterprise network designed and simulated in **Cisco
@@ -50,8 +49,7 @@ illustration.
 
 ## Network Topology
 
-![Network Design and Analysis topology](assets/network-design.webp)
-
+<img width="769" height="457" alt="Network Design" src="https://github.com/user-attachments/assets/6a2e59f3-0aaa-49b8-bc30-52bdaa3539e4" />
 The supplied topology illustration shows a network with multiple routers
 and switches, department-based end devices (including Sales, Engineers,
 and HR), remote-office segments, and dedicated HTTPS and DNS servers.
